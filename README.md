@@ -90,7 +90,7 @@ Still, I have a [few artifacts](https://github.com/jkassis/folio/systemdesign) t
 
 Projects
 --------
-#### eCommerce
+### eCommerce
 I created a full-stack eCommerce solution (soon to be released) using GoLang data services, typescript node.js server, typescript front-end with web technologies.
 
 GoLang data services include a custom, composable microservices framework that allow the following services to run individually or in a single process with optional [Dragonboat RAFT](https://github.com/lni/dragonboat) redundancy on localhost or the cloud...
@@ -107,7 +107,7 @@ GoLang data services include a custom, composable microservices framework that a
 
 
 
-#### Infrastructure
+### Infrastructure
 I run my own k8s cluster in AWS using [OKD](https://www.okd.io/).
 
 I decided to do this after a year and a half with [MachineZone](https://mz.com) where I helped migrate their multi-player game stack from metal to kubernetes and public / hybrid cloud.
@@ -120,9 +120,17 @@ We eventually chose OKD for the launch of a new title and benchmarked up to 10k 
 
 I was not the chief strategist, but involved in all aspects of the migration.
 
+### IoT (Internet of Things)
+I do some embedded / small device programming as well. Here are a few...
+
+ * RaspberryPi OpenCV Security Camera
+ * RaspberryPi Controlled Mechanum Autonomous Vehicle
+ * Arduino Pulse Controller / Modulator
+ * RaspberryPi Point of Sale device with Touch Display
+ * FreeSWAN VPN Firewall
 
 
-#### Word Games
+### Word Games
 I created two full-stack, multi-platform word games using a common engine and launched them on iOS, Android, and Facebook Web. That's 2 titles on three platforms using advanced web technology including WebGL, node.js server, and MongoDB.
 
 
@@ -133,20 +141,20 @@ While once a devout emacs user, I transitioned to Vim in 2016 with [Vim Adventur
 
 Other Tools
 -----------
-#### Keyboard
+### Keyboard
 I use a [Dygma Raise](https://dygma.com/).
 
 I got into mechanical keyboards again in 2016 (around the time I got into Vim) and have used many split keyboards (Goldtouch), etc.
 
 Without getting into details, the Raise has a learning curve, but it is also remarkable gear.
 
-#### Mouse
+### Mouse
 The Magic mouse with touch scroll is a game changer. Mid/old-timers like me agree on this one. Ever had to scroll your code with a mouse pointer and a scrollbar? I have. I wonder why it took so long to get here.
 
-#### Monitor
+### Monitor
 4k curved.
 
-#### Desk
+### Desk
 I custom built my desk from walnut and a sit-stand workstation base. I was one of the first into sit-sand workstations and had a Boston lift system. These days what you get on Amazon for $200 gives you quality and clean.
 
 
