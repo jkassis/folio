@@ -31,7 +31,7 @@ Code Samples
 * [GitAll](https://github.com/jkassis/gitall)  
   At any given time, I work from multiple dev laptops (desk / bed) to force myself to check in more frequently.
 
-  But I have 137 git repositories. 63 are source repos that I created and the rest are forks. And checking on all those repos to see if they are synced... what a PITA!
+  But I have 137 git repositories. 63 are source repos that I created and the rest are forks. And syncing all those repos... what a PITA!
   
   While I Google I got into the convenience of Blaze and the monorepo... so I wrote `gitall` to reduce the toil of maintaining all of *my* repos.
   
