@@ -112,7 +112,7 @@ Editor / IDE
 ------------
 While once a devout emacs user, I transitioned to Vim in 2016 with [Vim Adventures](https://vim-adventures.com/) and [NeoVim](https://neovim.io/).  Today, I use [VSCode](https://code.visualstudio.com/) and edit in [VSCodeVim](https://github.com/VSCodeVim/Vim).
 
-VSCode is a remarkable product, so remarkable that Google now provides it internally as CiderV.  I've used many editors over the years... and don't see coding without it.
+VSCode is so remarkable that Google now provides it internally as CiderV.  I've used many editors over the years... and don't see coding without it.
 
 
 Other Tools
