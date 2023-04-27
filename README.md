@@ -33,7 +33,7 @@ Code Samples
   
   At Google I got into the convenience of Blaze and the monorepo... so I wrote `gitall` to reduce the toil of maintaining all of *my* repos.
   
-  * It uses a PureGo git client for git operations. I have mixed feelings about this, but it eliminates a dependency on git.
+  * It uses a PureGo git client for git operations. I have mixed feelings, but it eliminates a dependency on git.
   * It has a custom, PureGo makefile [make.go](https://github.com/jkassis/gitall/blob/master/bin/make.go) that...
     * does cross-platform builds using docker, like [xgo](https://github.com/karalabe/xgo), but cleaner
     * packages the binary with [nFPM](https://github.com/goreleaser/nfpm), a subcomponent of [GoReleaser](https://github.com/goreleaser)
