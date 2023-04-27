@@ -24,7 +24,7 @@ Here are some interesting links:
   Game-programming requires a special approach. If this doesn't feel familiar to you, that's ok. Don't confuse it with server code, build, release, or tools.
 
 * [Pokemon API Client](https://github.com/jkassis/pokemoncli)  
-  While I'm not focused on gaming at the moment, my history tends to draw a lot of attention from game companies. I did this for Gearbox not long ago. It shows off GoLang integration of [OpenTelemetry](https://opentelemetry.io/), which is the new hotness in observability right now.
+  While I'm not focused on gaming at the moment, my history draws attention from game companies. I did this for Gearbox not long ago. It shows GoLang integration of [OpenTelemetry](https://opentelemetry.io/)... the new hotness in observability.
 
   It also shows a clean, lightweight CLI, consumption of a chaotic REST API, and a lightweight container build with Docker.
 
