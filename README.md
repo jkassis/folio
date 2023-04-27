@@ -15,7 +15,7 @@ Code
 ----
 Here are some interesting links:
 
-* [GAS: Game Animation System](https://github.com/jkassis/gas)
+* [GAS: Game Animation System](https://github.com/jkassis/gas)  
   I just put this together to give you a fun glimpse of my game-development and front-end experience.
 
   I also intend to use this as a pivot-point for learning other languages. While I've done C++ before, translating this will freshen those chops. I'm also planning for a Rust translation and more.
@@ -24,14 +24,14 @@ Here are some interesting links:
 
   Game-programming requires a special approach. If this doesn't feel familiar to you, that's ok. Don't confuse it with server code, build and release, or tools.
 
-* [Pokemon API Client](https://github.com/jkassis/pokemoncli)
+* [Pokemon API Client](https://github.com/jkassis/pokemoncli)  
   While I'm not focused on gaming at the moment, my history tends to draw a lot of attention from game companies. I did this for Gearbox not long ago. It shows off [OpenTelemetry](https://opentelemetry.io/) integration in GoLang. OpenTelemetry is all the rage in observability right now.
 
   It also shows off a clean, lightweight CLI, consumption of a chaotic REST API, and a lightweight container build with Docker.
 
   How bout dem buzzwords?
 
-* [JerrieDr](https://github.com/jkassis/jerriedr)
+* [JerrieDr](https://github.com/jkassis/jerriedr)  
   You won't know what to do with this GoLang ops tool, but you can take a look at the code.
 
   Notably, it de-risks backup and restore operations on my custom databases by automating those processes.
@@ -40,7 +40,7 @@ Here are some interesting links:
 
   It's an interesting study in how to backup microservices and maintain consistency of the data set. Short answer... it ain't easy.
 
-* [GitAll](https://github.com/jkassis/gitall)
+* [GitAll](https://github.com/jkassis/gitall)  
   I have 137 git repositories. 63 are source repos that I created and the rest are forks. That's a lot of repos.
 
   And at any given time, I have multiple dev laptops (desk / bed) going, which I find healthy because it forces me to check in more frequently.
@@ -60,20 +60,20 @@ Here are some interesting links:
 
   If you're really interested, [My XGO Fork](https://github.com/jkassis/xgo) includes the Dockerfile for the Ubuntu cross-build server image.
 
-* [DragonBoat Issues](https://github.com/lni/dragonboat/issues?q=jkassis)
+* [DragonBoat Issues](https://github.com/lni/dragonboat/issues?q=jkassis)  
   Check out a few issues I raised againt the [DragonBoat Implementation of RAFT](https://github.com/lni/dragonboat) protocol in GoLang
 
-* [NextTime](https://github.com/jkassis/nexttime)
+* [NextTime](https://github.com/jkassis/nexttime)  
   Here's a Typescript iterator for luxon Datetimes. Imagine why I did this.
 
-* [EzGo Proxy](https://github.com/jkassis/ezgo/blob/master/proxy/client.go)
+* [EzGo Proxy](https://github.com/jkassis/ezgo/blob/master/proxy/client.go)  
   For those interested in networking... I wrote this client to connect IoT devices to a custom gateway.
 
-* [My Dotfiles](https://github.com/jkassis/home)
+* [My Dotfiles](https://github.com/jkassis/home)  
   I keep my dotfiles and dev box installation scripts checked into git.  I keep them up-to-date and they change all the time.  This, alone, should convince you that I'm a hardcore software developer.
 
- * [Code Screens] (https://github.com/jkassis/folio/code)
-   I've taken many coding tests in my career. I wish I had saved them all. Recently, I decided to start collecting. This repo contains a few choice examples...
+ * [Code Screens] (https://github.com/jkassis/folio/code)  
+   I've taken many coding tests in my career. I wish I had saved them all. Recently, I decided to start collecting. This repo contains a few examples...
 
 
 
