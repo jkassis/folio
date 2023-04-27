@@ -1,6 +1,6 @@
 jkassis/folio
 =============
-A collection of projects to demonstrate my software engineering skills.
+A collection of projects to demonstrate software engineering skills.
 
 Hopefully, after review, we can agree to talk about your projects, system design, how we can help each other... and skip the coding tests.
 
