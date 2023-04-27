@@ -48,20 +48,20 @@ Code Samples
   A Typescript iterator for luxon Datetimes. Imagine why I did this.
 
 * [EzGo Proxy](https://github.com/jkassis/ezgo/blob/master/proxy/client.go)  
-  This little client connects IoT devices to a custom IoT gateway.
+  A light client that connects IoT devices to a custom IoT gateway.
 
 * [My Dotfiles](https://github.com/jkassis/home)  
-  I keep my dotfiles and dev box installation scripts checked into git. I keep them up-to-date and they change all the time.
+  For config and dev box installation. I keep them up-to-date and they change all the time.
 
  * [Code Screens] (https://github.com/jkassis/folio/code)  
-   This repo contains a few recent examples...
+   A few recent examples.
 
 
 System Design
 -------------
 System Design interviews produce good conversations, but not always much to show. And I obviously can't share confidential System Design artifacts from previous employers.
 
-Still, I have a few [System Design Artifacts](https://github.com/jkassis/folio/systemdesign) to show...
+Still, I have a few [System Design Artifacts](https://github.com/jkassis/folio/systemdesign) to show.
 
 
 
