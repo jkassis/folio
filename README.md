@@ -8,9 +8,8 @@ About
 I've done software development for 20+ years with extensive experience (at one time or another) in GoLang, Typescript, Python, Java, Javascript, and Perl.  I'm fresh in GoLang and Typescript at the moment.
 
 
-Code
-----
-Here are some interesting links:
+Code Samples
+------------
 
 * [GAS: Game Animation System](https://github.com/jkassis/gas)  
   Provides a fun glimpse of my game-development and front-end skills.
