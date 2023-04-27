@@ -110,31 +110,24 @@ I created two full-stack, multi-platform word games using a common engine and la
 
 Editor / IDE
 ------------
-While once a devout emacs user, I transitioned to Vim in 2016 with [Vim Adventures](https://vim-adventures.com/) and [NeoVim](https://neovim.io/).  Today, I use [VSCode](https://code.visualstudio.com/) and edit in VSCode Vim(https://github.com/VSCodeVim/Vim) and don't see coding without it.
+While once a devout emacs user, I transitioned to Vim in 2016 with [Vim Adventures](https://vim-adventures.com/) and [NeoVim](https://neovim.io/).  Today, I use [VSCode](https://code.visualstudio.com/) and edit in [VSCodeVim](https://github.com/VSCodeVim/Vim).
+
+VSCode is a remarkable product, so remarkable that Google now provides it internally as CiderV.  I've used many editors over the years... and don't see coding without it.
 
 
 Other Tools
 -----------
-### Keyboard
-I use a [Dygma Raise](https://dygma.com/).
-
-I got into mechanical keyboards again in 2016 (around the time I got into Vim) and have used many split keyboards (Goldtouch), etc.
-
-Without getting into details, the Raise has a learning curve, but it is also remarkable gear.
-
-### Mouse
-The Magic mouse with touch scroll is a game changer. Mid/old-timers like me agree on this one. Ever had to scroll your code with a mouse pointer and a scrollbar? I have. I wonder why it took so long to get here.
-
-### Monitor
-4k curved.
+### KVM
+* [Dygma Raise](https://dygma.com/). The Raise has a learning curve, but is remarkable.
+* 4k curved Phillips on a VESA mount.
+* Magic mouse with touch scroll. This was such a game-changer. Ever had to scroll with a mouse, pointer, and scrollbar?
 
 ### Desk
-I custom built my desk from walnut and a sit-stand workstation base. I was one of the first into sit-sand workstations and had a Boston lift system. These days what you get on Amazon for $200 gives you quality and clean.
+I built my desk from walnut and a sit-stand workstation base. As an early adopter of sit-stand workstations, I had a Boston lift system. These days, $200 on Amazon gives you quality and clean.
 
 
 Memories
 --------
-VSCode is a remarkable product, so remarkable that Google now provides it internally as CiderV.  I've used many editors over the years...
  * [Merlin](https://brutaldeluxe.fr/products/crossdevtools/merlin/)
    for 65C816 assembly on the Apple IIgs.
  * [Eclipse](https://eclipse.org)
