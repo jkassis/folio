@@ -41,7 +41,7 @@ Code Samples
 
   Going deeper... [My XGO Fork](https://github.com/jkassis/xgo) includes the Dockerfile for the Ubuntu cross-build server image.
 
-* [DragonBoat Issues](https://github.com/lni/dragonboat/issues?q=jkassis)  
+* [DragonBoat](https://github.com/lni/dragonboat/issues?q=jkassis)  
   A few issues I raised againt the [DragonBoat Implementation of RAFT](https://github.com/lni/dragonboat) protocol in GoLang.
 
 * [NextTime](https://github.com/jkassis/nexttime)  
