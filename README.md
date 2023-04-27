@@ -12,9 +12,7 @@ Code Samples
 ------------
 
 * [GAS: Game Animation System](https://github.com/jkassis/gas)  
-  Provides a fun glimpse of my game-development and front-end skills.
-
-  I'll also use this as a pivot-point for learning other languages as needed.
+  A fun glimpse of my game-development and front-end skills. I'll use this as a pivot-point for learning other languages as needed.
 
   [Adam Rogoyski](https://github.com/adamrogoyski), a former colleague at Google inspired this with his [Polyglot Tetris](https://github.com/adamrogoyski/tetris) experiment.
 
