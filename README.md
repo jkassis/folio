@@ -33,16 +33,13 @@ Code Samples
   
   At Google I got into the convenience of Blaze and the monorepo... so I wrote `gitall` to reduce the toil of maintaining all of *my* repos.
   
-  It's a work in progress, but it could one day serve as the mono-repo layer on top of git.
-  
-  A few interesting tidbits here...
   * It uses a PureGo git client for git operations. I have mixed feelings about this, but it eliminates a dependency on git.
   * It has a custom, PureGo makefile [make.go](https://github.com/jkassis/gitall/blob/master/bin/make.go) that...
     * does cross-platform builds using docker, like [xgo](https://github.com/karalabe/xgo), but cleaner
     * packages the binary with [nFPM](https://github.com/goreleaser/nfpm), a subcomponent of [GoReleaser](https://github.com/goreleaser)
     * releases to github with the [GitHub CLI](https://cli.github.com/)
 
-  If you're really interested, [My XGO Fork](https://github.com/jkassis/xgo) includes the Dockerfile for the Ubuntu cross-build server image.
+  Going deeper... [My XGO Fork](https://github.com/jkassis/xgo) includes the Dockerfile for the Ubuntu cross-build server image.
 
 * [DragonBoat Issues](https://github.com/lni/dragonboat/issues?q=jkassis)  
   A few issues I raised againt the [DragonBoat Implementation of RAFT](https://github.com/lni/dragonboat) protocol in GoLang.
