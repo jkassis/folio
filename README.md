@@ -1,6 +1,6 @@
 jkassis/folio
 =============
-A collection of projects to demonstrate software engineering skills. Hopefully, after review, we can shortcut to your projects, system design, and how we can help each other... and skip the coding tests.
+A collection of projects to demonstrate software engineering skills. Hopefully, after review, we can shortcut to your systems, people, and projects... and how we can help each other... and skip the coding tests.
 
 
 About
