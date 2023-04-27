@@ -15,7 +15,7 @@ Code
 Here are some interesting links:
 
 * [GAS: Game Animation System](https://github.com/jkassis/gas)  
-  I just put this together for a fun glimpse of my game-development and front-end skills.
+  Provides a fun glimpse of my game-development and front-end skills.
 
   I also intend to use this as a pivot-point for learning other languages. While I've done C++ before, translating this will freshen those chops. I'm also planning for a Rust translation and more.
 
