@@ -1,8 +1,8 @@
 jkassis/folio
 =============
-A guided-tour of some interesting tidbits for you to get to know my software engineering skills.
+A collection of projects to demonstrate my software engineering skills.
 
-Hopefully, after reviewing this work, we can fast-forward through coding tests to talk about your projects, system design, and how we can help each other.
+Hopefully, after review, we can agree to talk about your projects, system design, how we can help each other... and skip the coding tests.
 
 About
 -----
