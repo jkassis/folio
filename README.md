@@ -5,7 +5,7 @@ A collection of projects to demonstrate software engineering skills. Hopefully, 
 
 About
 -----
-I've done software development for 20+ years with extensive experience (at one time or another) in GoLang, Typescript, Python, Java, Javascript, and Perl.  I'm fresh in GoLang and Typescript at the moment.
+I've done software development, ops, and scaling for 20+ years with extensive experience (at one time or another) in GoLang, Typescript, Python, Java, Javascript, and Perl.  I'm fresh in GoLang and Typescript at the moment.
 
 
 Code Samples
