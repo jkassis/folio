@@ -68,6 +68,18 @@ Still, I have a few [System Design Artifacts](https://github.com/jkassis/folio/s
 
 Projects
 --------
+
+### Infrastructure
+I run my own k8s cluster in AWS using [OKD](https://www.okd.io/).
+
+I decided to do this after a year and a half with [MachineZone](https://mz.com) where I helped migrate their multi-player game stack from metal to kubernetes and public / hybrid cloud.
+
+I did testing on various k8s control planes, including [KOPS](https://github.com/kubernetes/kops), Amazon EKS, and Google GKE. The team and I stood the game server and client up on each of these and weighed pros and cons.
+
+We eventually chose OKD for the next title launch and benchmarked up to 10k concurrent users. I contributed to the development of the logging system and migration of the Python load testing framework to kubernetes (and updating it with asyncio) so that we could load test without extreme Ingress and Compute fees.
+
+I was not the chief strategist, but involved in all aspects of the migration.
+
 ### eCommerce
 I created a full-stack eCommerce solution (soon to be released) using GoLang data services, typescript node.js server, typescript front-end with web technologies.
 
@@ -83,19 +95,6 @@ GoLang data services include a custom, composable microservices framework that a
 * permie
   An RBAC (role-based authentication) server/db
 
-
-
-### Infrastructure
-I run my own k8s cluster in AWS using [OKD](https://www.okd.io/).
-
-I decided to do this after a year and a half with [MachineZone](https://mz.com) where I helped migrate their multi-player game stack from metal to kubernetes and public / hybrid cloud.
-
-I did testing on various k8s control planes, including [KOPS](https://github.com/kubernetes/kops), Amazon EKS, and Google GKE. The team and I stood the game server and client up on each of these and weighed pros and cons.
-
-We eventually chose OKD for the next title launch and benchmarked up to 10k concurrent users. I contributed to the development of the logging system and migration of the Python load testing framework to kubernetes (and updating it with asyncio) so that we could load test without extreme Ingress and Compute fees.
-
-I was not the chief strategist, but involved in all aspects of the migration.
-
 ### IoT (Internet of Things)
 I do some embedded / small device programming as well. Here are a few...
 
@@ -105,8 +104,7 @@ I do some embedded / small device programming as well. Here are a few...
  * RaspberryPi Point of Sale Terminal with Touch Display
  * FreeSWAN VPN Firewall
 
-
-### Word Games
+### Games
 I created two full-stack, multi-platform word games using a common engine and launched them on iOS, Android, and Facebook Web. That's 2 titles on three platforms using advanced web technology including WebGL, node.js, and MongoDB.
 
 
