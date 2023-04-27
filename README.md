@@ -24,9 +24,7 @@ Code Samples
   It also shows a clean, lightweight CLI, consumption of a chaotic REST API, and a lightweight container build with Docker.
 
 * [JerrieDr](https://github.com/jkassis/jerriedr)  
-  JerrieDR de-risks backup and restore operations on my custom databases by automating those processes.
-
-  It uses the k8s API to control StatefulSets and Ingresses of live cloud services and a terminal GUI framework for user control.
+  JerrieDR de-risks backup and restore operations on my custom databases by automating those processes. It uses the k8s API to control StatefulSets and Ingresses of live cloud services and a terminal GUI framework for user control.
 
   It's an interesting study in how to backup microservices and maintain consistency of the data set. Short answer... it ain't easy.
 
