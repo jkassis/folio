@@ -17,7 +17,7 @@ Here are some interesting links:
 * [GAS: Game Animation System](https://github.com/jkassis/gas)  
   Provides a fun glimpse of my game-development and front-end skills.
 
-  I also intend to use this as a pivot-point for learning other languages. While I've done C++ before, translating this will freshen those chops. I'm also planning for a Rust translation and more.
+  I'll also use this as a pivot-point for learning other languages as needed.
 
   [Adam Rogoyski](https://github.com/adamrogoyski), a former colleague at Google inspired this with his [Polyglot Tetris](https://github.com/adamrogoyski/tetris) experiment.
 
