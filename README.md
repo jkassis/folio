@@ -53,7 +53,7 @@ Code Samples
 * [My Dotfiles](https://github.com/jkassis/home)  
   For config and dev box installation. I keep them up-to-date and they change all the time.
 
- * [Code Screens] (https://github.com/jkassis/folio/code)  
+ * [Code Screens](https://github.com/jkassis/folio/code)  
    A few recent examples.
 
 
