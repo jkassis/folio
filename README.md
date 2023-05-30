@@ -115,8 +115,8 @@ While once a devout emacs user, I transitioned to Vim in 2016 with [Vim Adventur
 VSCode is so remarkable that Google now provides it internally as CiderV.  I've used many editors over the years... and don't see coding without it.
 
 
-Other Tools
------------
+Hardware
+--------
 ### KVM
 * [Dygma Raise](https://dygma.com/). The Raise has a learning curve, but is remarkable.
 * 4k curved Phillips on a VESA mount.
