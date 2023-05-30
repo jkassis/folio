@@ -61,7 +61,7 @@ System Design
 -------------
 System Design interviews produce good conversations, but not always much to show. And I obviously can't share confidential System Design artifacts from previous employers.
 
-Still, I have a few [System Design Artifacts](https://github.com/jkassis/folio/systemdesign) to show.
+Still, I have a few [System Design Artifacts](https://github.com/jkassis/folio/tree/main/systemdesign) to show.
 
 
 
