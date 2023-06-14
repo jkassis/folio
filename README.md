@@ -81,19 +81,14 @@ We eventually chose OKD for the next title launch and benchmarked up to 10k conc
 I was not the chief strategist, but involved in all aspects of the migration.
 
 ### eCommerce
-I created a full-stack eCommerce solution (soon to be released) using GoLang data services, typescript node.js server, typescript front-end with web technologies.
+I created a full-stack eCommerce solution using GoLang data services, typescript node.js server, typescript front-end with web technologies.
 
 GoLang data services include a custom, composable microservices framework that allow arbitrary compositions of the following services (single-process, multi-process) with optional [Dragonboat RAFT](https://github.com/lni/dragonboat) redundancy on localhost or the cloud...
-* dockie
-  A structured DB topping an open-source KV DB
-* pubsub
-  A PubSub service
-* tickie
-  A multi-threaded timer / callback service
-* ledgie
-  A basic, lightweight accounting ledger for high transaction volumes
-* permie
-  An RBAC (role-based authentication) server/db
+* A structured DB topping an open-source KV DB
+* A PubSub service
+* A multi-threaded timer / callback service
+* A basic, lightweight account ledger for high transaction volumes
+* An RBAC (role-based authentication) server/db
 
 ### IoT (Internet of Things)
 I do some embedded / small device programming as well. Here are a few...
