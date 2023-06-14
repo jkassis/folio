@@ -78,8 +78,6 @@ I did testing on various k8s control planes, including [KOPS](https://github.com
 
 We eventually chose OKD for the next title launch and benchmarked up to 10k concurrent users. I contributed to the development of the logging system and migration of the Python load testing framework to kubernetes (and updating it with asyncio) so that we could load test without extreme Ingress and Compute fees.
 
-I was not the chief strategist, but involved in all aspects of the migration.
-
 ### eCommerce
 I created a full-stack eCommerce solution using GoLang data services, typescript node.js server, typescript front-end with web technologies.
 
