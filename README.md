@@ -11,7 +11,7 @@ I've done development, ops, and scaling for 20+ years with extensive experience 
 Code Samples
 ------------
 
-* [Cert Secret Syncer](https://github.com/jkassis/cert-secret-syncer) 
+* [Cert Secret Syncer](https://github.com/jkassis/cert-secret-syncer)
   A kubernetes operator in GoLang to synchronize certificates stored in k8s Secrets with the Certificate Managers of the k8s infrastructure provider. eg. AWS Certificate Manager. Useful for managing certs with kubernetes cert-manager and exporting them for use with Load Balancers to terminate TLS on the edge.
 
 * [GAS: Game Animation System](https://github.com/jkassis/gas)  
